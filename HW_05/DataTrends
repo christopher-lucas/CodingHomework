@@ -1,5 +1,0 @@
-As the number of total rides increases, the mean fare per ride decreases. This is not surprising, given that as supply outpaces demand, prices decrease.
-
-The percentage of total fares for urban cities is 62%, while the percentage of total rides in urban cities is 67.5. As city size decreases, the mean fare per ride increases.
-
-The percentage of total drivers for urban cities is 77.8, while the percentage of total rides in urban cities is 67.5. As city size decreases, the number of rides by driver increzses. Drivers in smaller cities are busier.
